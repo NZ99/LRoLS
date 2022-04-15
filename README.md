@@ -1,4 +1,4 @@
-# Learning representations of life sequences
+# Learning Representations of Life Sequences (LRoLS)
 To become a one-stop-shop for biological sequence datasets, models and downstream tasks, built in order to fast-track the _learning representations of life_ paradigm across the life sciences.
 
 # Projects/repos that could be useful or of inspiration for this project.
