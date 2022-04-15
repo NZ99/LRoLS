@@ -1,5 +1,5 @@
-# BioML
-To become a one-stop-shop for biology-related datasets, models and downstream tasks, built in order to fast-track the _learning representations of life_ paradigm across the life sciences.
+# Learning representations of life sequences
+To become a one-stop-shop for biological sequence datasets, models and downstream tasks, built in order to fast-track the _learning representations of life_ paradigm across the life sciences.
 
 # Projects/repos that could be useful or of inspiration for this project.
 - [Tasks Assessing Protein Embeddings (TAPE)](https://github.com/songlab-cal/tape)
